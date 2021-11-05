@@ -8,16 +8,16 @@ This project consisted of building a web application that scrapes various websit
 
 ## Scraping
 
-1. The first website scraped was: https://redplanetscience.com/ 
+1. The first website scraped was: https://redplanetscience.com/  .
    This website was scraped for the latest news title and paragraph text. 
 
-2. The second website scraped was: https://spaceimages-mars.com/
+2. The second website scraped was: https://spaceimages-mars.com/ .
 This website was scraped for the current featured image.
 
-3. The third website scraped was: https://galaxyfacts-mars.com/
+3. The third website scraped was: https://galaxyfacts-mars.com/ .
 This website was scraped for the table containing facts about the planet, including diameter, mass, et.
 
-4. The fourth and last website scraped was: https://marshemispheres.com/
+4. The fourth and last website scraped was: https://marshemispheres.com/ .
 This website was scraped for the high resolution images for each of Mars' hemispheres.
 
 ## MongoDB and Flask Application

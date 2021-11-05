@@ -22,4 +22,4 @@ This project consisted of building a web application that scrapes various websit
 
 ## MongoDB and Flask Application
 
-After scraping, MongoDB with Flask templating was used to create a new HTML webpage that displayed all of the scraped information. 
+After scraping, MongoDB with Flask templating was used to create a new HTML webpage that displayes all of the scraped information. 

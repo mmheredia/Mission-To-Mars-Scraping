@@ -12,7 +12,7 @@ This project consisted of building a web application that scrapes various websit
 
 2. The second website scraped was: https://spaceimages-mars.com/. This website was scraped for the current featured image.
 
-3. The third website scraped was: https://galaxyfacts-mars.com/ . This website was scraped for the table containing facts about the planet, including diameter, mass, et.
+3. The third website scraped was: https://galaxyfacts-mars.com/ . This website was scraped for the table containing facts about the planet, including diameter, mass, etc.
 
 4. The fourth and last website scraped was: https://marshemispheres.com/ . This website was scraped for the high resolution images for each of Mars' hemispheres.
 
